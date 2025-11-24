@@ -78,37 +78,3 @@ ls -al
 ```
 
 ```
-
-**What it teaches:**
-```
-
-```
-
----
-
-## Reflection
-
-### What I learned this week:
-```
-
-```
-
-### Challenges I faced:
-```
-
-```
-
-### What I want to explore more:
-```
-
-```
-
-### Time spent:
-```
-
-```
-
----
-
-## Next Week Preview
-Week 2: C Programming Basics + Git Fundamentals
