@@ -8,7 +8,7 @@
 - [ ] CS50 Week 1 (C basics)
 
 ### Reading
-- [ ] The Linux Command Line (TLCL) Chapters 5-6
+- [x] The Linux Command Line (TLCL) Chapters 5-6
 - [ ] The Linux Command Line (TLCL) Chapters 24-27 (shell scripting intro)
 
 ## Exercises
@@ -26,11 +26,6 @@
 
 ```
 
-**Notes:**
-```
-
-```
-
 ---
 
 ### Medium: Modify CS50's `mario.c` - create bash version using loops
@@ -42,11 +37,6 @@
 ```
 
 **Test output (pyramid/pattern):**
-```
-
-```
-
-**Notes:**
 ```
 
 ```
@@ -67,11 +57,6 @@
 ```
 
 **Error log format:**
-```
-
-```
-
-**Notes:**
 ```
 
 ```
@@ -110,40 +95,3 @@
 ```
 
 ---
-
-## Reflection
-
-### What I learned this week:
-```
-
-```
-
-### Challenges I faced:
-```
-
-```
-
-### What I want to explore more:
-```
-
-```
-
-### C concepts that clicked:
-```
-
-```
-
-### Bash scripting insights:
-```
-
-```
-
-### Time spent:
-```
-
-```
-
----
-
-## Next Week Preview
-Week 3: [Add your next week's plan]
