@@ -47,27 +47,30 @@ ls -al
 ---
 
 ### Hard: Find all `.txt` files modified in last 7 days, count their lines
-- [ ] Completed
+- [x] Completed
 
 **Your solution:**
 ```bash
-
+find . -type f -name '*.txt' -mtime -7d -exec wc -l {} +
 ```
 
 **Output/Result:**
 ```
-
+80 ./week01-development-environment/notes.md
+1 ./README.md
+97 ./week02-c-fundamentals+scripting/notes.md
+178 total
 ```
 
 **Notes:**
 ```
-
+Man pages are a useful resource
 ```
 
 ---
 
 ## Weekend Project
-- [ ] Create a Scratch game that teaches basic shell commands (interactive quiz/adventure)
+- [x] Create a scatch game (see cs50 week0 direcotry for spec)
 
 **Project Link:**
 ```
