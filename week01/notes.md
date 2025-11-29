@@ -56,9 +56,9 @@ find . -type f -name '*.txt' -mtime -7d -exec wc -l {} +
 
 **Output/Result:**
 ```
-80 ./week01-development-environment/notes.md
+80 ./week01/notes.md
 1 ./README.md
-97 ./week02-c-fundamentals+scripting/notes.md
+97 ./week01/notes.md
 178 total
 ```
 
@@ -70,14 +70,13 @@ Man pages are a useful resource
 ---
 
 ## Weekend Project
-- [x] Create a scatch game (see cs50 week0 direcotry for spec)
+- [x] Create a scatch game (see cs50 week0 directory for solution)
 
 **Project Link:**
-```
 
-```
+[flappy birds](https://www.github.com/nkululekojonas/cs50/tree/main/week0)
 
 **Description:**
 ```
-
+A janky flappy birds implementation in scratch.
 ```
