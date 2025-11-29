@@ -25,20 +25,22 @@ echo "${1^^}"
 
 **Test output:**
 ```
-./toupper hello
-```
 HELLO
+```
 ---
 
 ### Medium: Modify CS50's `mario.c` - create bash version using loops
 - [x] Completed
 
 **Your solution:**
-See mario.sh
+See ./exercises/mario.sh
 
 **Test output (pyramid/pattern):**
 ```
-
+   #
+  ##
+ ###
+####
 ```
 
 ---
@@ -54,6 +56,11 @@ See run-c.sh
 ./run-c.sh add.c 1 1
 ```
 
+**Test output:**
+```
+2
+```
+
 ---
 
 ## Weekend Project
@@ -64,25 +71,7 @@ See run-c.sh
 
 ```
 
-**Features implemented:**
-- [ ] Installs gcc
-- [ ] Installs make
-- [ ] Installs git
-- [ ] Creates project directories
-- [ ] Initializes git repos
-- [ ] Additional features:
-
-**Your script:**
-```bash
-
-```
-
 **Usage instructions:**
-```
-
-```
-
-**Notes:**
 ```
 
 ```
