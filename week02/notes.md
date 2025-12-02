@@ -66,10 +66,8 @@ See run-c.sh
 ## Weekend Project
 - [x] Build "dev setup automator" - bash script that installs tools (gcc, make, git), creates project directories, initializes git repos
 
-**Script name/location:**
-```
-dev-setup.sh see: [dev setup automator](https://www.github.com/nkululekojonas/dev-setup.git)
-```
+**Project Repo**
+[dev setup automator](https://www.github.com/nkululekojonas/dev-setup.git)
 
 **Usage instructions:**
 ```
