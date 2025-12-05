@@ -5,10 +5,14 @@
 ## Completed
 
 ### Coursework
-- [ ] CS50 Week 2 (Arrays)
+- [x] CS50 Week 2 (Arrays)
+- [x] CS50 Section
+- [x] CS50 Shorts
 
 ### Reading
-- [ ] The Linux Command Line (TLCL) Chapters 19–21  
+- [x] The Linux Command Line (TLCL) Chapters 19
+- [ ] The Linux Command Line (TLCL) Chapters 20
+- [ ] The Linux Command Line (TLCL) Chapters 21
   *(grep, sed, awk basics)*
 
 ## Exercises
