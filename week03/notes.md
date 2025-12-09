@@ -11,24 +11,20 @@
 
 ### Reading
 - [x] The Linux Command Line (TLCL) Chapters 19
-- [ ] The Linux Command Line (TLCL) Chapters 20
+- [x] The Linux Command Line (TLCL) Chapters 20
 - [ ] The Linux Command Line (TLCL) Chapters 21
   *(grep, sed, awk basics)*
 
 ## Exercises
 
 ### Easy: Use `grep` to find all function definitions in CS50 problem sets
-- [ ] Completed
+- [x] Completed
 
 **Your solution:**
 ```bash
-# your command here
+grep -E -r '^[a-zA-Z_]+ [a-zA-Z_0-9]+\(.*\)[[:space:]]*\{?' cs50/
 ```
 
-**Sample output:**
-```
-# your sample output here
-```
 ---
 
 ### Medium: Script using `awk` to calculate average from `scores.txt`
