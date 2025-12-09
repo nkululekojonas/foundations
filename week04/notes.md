@@ -5,8 +5,8 @@
 ## Coursework
 
 ### Video Content
-- [ ] CS50 Week 3 (Algorithms) Lecture
-- [ ] CS50 Week 3 Section
+- [x] CS50 Week 3 (Algorithms) Lecture
+- [x] CS50 Week 3 Section
 - [ ] CS50 Week 3 Shorts
 
 - [ ] Missing Semester git lecture
